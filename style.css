@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+    background-size:cover;
+}
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px
+}
+#dj_heading{
+    color:red;
+    font-size: 30px;
+}
+.note{
+    font-size:30px;
+    color:coral;
+}
+#song{
+    font-size:23px;
+    margin:15px;
+}
+canvas{
+    border:20px;
+    box-shadow:0;
+    margin:10px;
+    padding:20px;
+}
